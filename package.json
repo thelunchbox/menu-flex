@@ -1,0 +1,14 @@
+{
+  "name": "menu-flex",
+  "version": "1.0.0",
+  "description": "A system for building menus in javascript canvas apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "BPG Labs",
+  "license": "ISC"
+}
